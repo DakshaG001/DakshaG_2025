@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2025"
 owner_name: Daksha Gowda
 github_username: DakshaG001
-github_repo: "daksha_2025" 
-baseurl: "/daksha_2025"
+github_repo: "DakshaG_2025" 
+baseurl: "/DakshaG_2025"
 future: true
 remote_theme: jekyll/minima
 minima:
